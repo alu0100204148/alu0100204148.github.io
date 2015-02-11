@@ -7,7 +7,7 @@
 
 -[Tutorial Node.js]
 
--[Conversor de temperaturas] ( [Tests conversor] )
+-[Conversor de temperaturas] y [Tests conversor]
 
 
 
