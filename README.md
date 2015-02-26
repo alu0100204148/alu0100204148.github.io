@@ -9,6 +9,7 @@
 
 -[Conversor de temperaturas] y [Tests conversor]
 
+-[Conversor de temperaturas-karma] y [Tests conversor-karma]
 
 
 [Tutorial Node.js]:http://alu0100204148.github.io/tutorialnodejs/
@@ -16,3 +17,5 @@
 [Conversor de temperaturas]:http://alu0100204148.github.io/conversor/
 [Tests conversor]:http://alu0100204148.github.io/conversor/tests
 
+[Conversor de temperaturas-karma]:http://alu0100204148.github.io/conversor-karma/
+[Tests conversor-karma]:http://alu0100204148.github.io/conversor-karma/tests
